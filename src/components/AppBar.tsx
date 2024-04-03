@@ -5,7 +5,7 @@ export function AppBar(){
         <div className="pl-3 pt-4">
             Youtube
         </div>
-        <div>
+        <div className="max-sm:hidden block">
             <SearchBar />
         </div>
         <div className="pr-3 pt-4">
